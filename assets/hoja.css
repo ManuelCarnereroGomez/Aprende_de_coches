@@ -1,0 +1,390 @@
+/* No CSS *//*# sourceMappingURL=hoja.css.map */
+
+body {
+  margin: 70px;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background: rgb(234,229,255);
+background: linear-gradient(90deg, #eae5ff 0%, rgb(119, 255, 248) 51%, rgb(131, 45, 230) 100%);
+  
+}
+
+.tribalsuperior{
+ margin: 0 auto;
+ width: 75%
+}
+
+.opciones{
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+
+.opciones li{
+  color: #000;
+}
+
+.tribalinferior{
+  margin: 0 auto;
+  width: 75%
+ }
+
+h1{
+  text-align: center;
+  font-size: 30px;
+}
+
+p{
+  text-align: center;
+  font-size: 15px;
+}
+
+.coche{
+margin: 0 auto;
+width: 55% ;
+}
+
+.motorinterior{
+  margin: 0 auto;
+  width: 35% ;
+}
+
+.portada{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 80%;
+  font-size: 55px;
+  margin: 0 auto;
+  padding: 0;
+  
+}
+
+/* .llanta1{
+  position: absolute;
+  left: 500px;
+  top: 645px;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.llanta2{
+  position: absolute;
+  left: 960px;
+  top: 645px;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+} */
+
+.correcto{
+  color: #18520d;
+}
+
+.cls-1 {
+  fill: url(#Degradado_sin_nombre_59);
+}
+
+.cls-2 {
+  opacity: 0.8;
+  fill: url(#Degradado_sin_nombre_42);
+}
+
+.cls-3 {
+  fill: #9fc0e2;
+  opacity: 0.85;
+}
+
+.cls-4 {
+  fill: #2b71a4;
+}
+
+.cls-24,
+.cls-25,
+.cls-5 {
+  fill: #257;
+}
+
+.cls-6 {
+  fill: url(#Degradado_sin_nombre_10);
+}
+
+.cls-7 {
+  fill: url(#Degradado_sin_nombre_10-2);
+}
+
+.cls-8 {
+  fill: url(#Degradado_sin_nombre_10-3);
+}
+
+.cls-9 {
+  opacity: 0.71;
+  fill: url(#Degradado_sin_nombre_10-4);
+}
+
+.cls-10 {
+  fill: url(#Degradado_sin_nombre_10-5);
+}
+
+.cls-11 {
+  fill: url(#Degradado_sin_nombre_71);
+}
+
+.cls-12 {
+  fill: url(#Degradado_sin_nombre_10-6);
+}
+
+.cls-13 {
+  fill: #4983b8;
+}
+
+.cls-14 {
+  fill: #a1b9c4;
+}
+
+.cls-15,
+.cls-16,
+.cls-17,
+.cls-22,
+.cls-23,
+.cls-30 {
+  fill: none;
+  stroke-miterlimit: 10;
+}
+
+.cls-15 {
+  stroke: url(#Degradado_sin_nombre_88);
+}
+
+.cls-16,
+.cls-22 {
+  stroke-width: 1.02px;
+}
+
+.cls-16 {
+  stroke: url(#Degradado_sin_nombre_88-2);
+}
+
+.cls-17 {
+  stroke-width: 0.6px;
+  stroke: url(#Degradado_sin_nombre_88-3);
+}
+
+.cls-18 {
+  fill: url(#Degradado_sin_nombre_106);
+}
+
+.cls-19 {
+  fill: url(#Degradado_sin_nombre_105);
+}
+
+.cls-20 {
+  fill: url(#Degradado_sin_nombre_102);
+}
+
+.cls-21 {
+  fill: url(#Degradado_sin_nombre_37);
+}
+
+.cls-22 {
+  stroke: url(#Degradado_sin_nombre_88-4);
+}
+
+.cls-23 {
+  stroke-width: 0.64px;
+  stroke: url(#Degradado_sin_nombre_88-5);
+}
+
+.cls-24 {
+  opacity: 0.13;
+}
+
+.cls-25 {
+  opacity: 0.07;
+}
+
+.cls-26 {
+  fill: #2a4472;
+}
+
+.cls-27 {
+  fill: #727575;
+}
+
+.cls-28 {
+  fill: #9ca0a0;
+}
+
+.cls-29 {
+  fill: #b0afaf;
+}
+
+.cls-30 {
+  stroke: #2a4472;
+  stroke-width: 7px;
+}
+#llanta-id{
+  color: #000;
+}
+#llantas:hover, #Aleron:hover, #lip:hover{
+  cursor: pointer;
+}
+
+
+.st0 {
+  fill: #D3A585;
+}
+
+.st1 {
+  fill: #BB8763;
+}
+
+.st2 {
+  fill: #A36B45;
+}
+
+.st3 {
+  opacity: 0.31;
+  fill: #60391C;
+}
+
+.st4 {
+  fill: #9C5122;
+}
+
+.st5 {
+  fill: #684223;
+}
+
+.st6 {
+  fill: #E5C2A5;
+}
+
+.st7 {
+  fill: #B55321;
+}
+
+.st8 {
+  fill: #EDC597;
+}
+
+.st9 {
+  fill: none;
+  stroke: #C47930;
+  stroke-miterlimit: 10;
+}
+
+.st10 {
+  fill: none;
+  stroke: #C47930;
+  stroke-width: 1.463;
+  stroke-miterlimit: 10;
+}
+
+.st11 {
+  fill: none;
+  stroke: #C47930;
+  stroke-width: 2.4675;
+  stroke-miterlimit: 10;
+}
+
+.st12 {
+  fill: none;
+  stroke: #C47930;
+  stroke-width: 1.8358;
+  stroke-miterlimit: 10;
+}
+
+.st13 {
+  fill: none;
+  stroke: #C47930;
+  stroke-width: 2.83;
+  stroke-miterlimit: 10;
+}
+
+.st14 {
+  fill: #D67D36;
+}
+
+.st15 {
+  fill: #7C3C1D;
+}
+
+.st16 {
+  fill: #60391C;
+}
+
+.st17 {
+  fill: #D8B59F;
+}
+
+.st18 {
+  fill: #97C9D4;
+}
+
+.st19 {
+  opacity: 0.53;
+  fill: url(#SVGID_1_);
+}
+
+.st20 {
+  opacity: 0.53;
+  fill: url(#SVGID_00000151530880785916101290000007139449964827348413_);
+}
+
+.st21 {
+  opacity: 0.37;
+  fill: #EEC789;
+}
+
+.st22 {
+  fill: #723C1B;
+}
+
+.st23 {
+  opacity: 0.53;
+  fill: url(#SVGID_00000049920013616646277670000001942051639657889437_);
+}
+
+.st24 {
+  opacity: 0.53;
+  fill: url(#SVGID_00000110462505280078182240000006705674844090317737_);
+}
+
+.st25 {
+  fill: #FFFFFF;
+}
+
+.st26 {
+  fill: #EFD6C6;
+}
+
+.st27 {
+  fill: #937E6A;
+}
+
+.st28 {
+  fill: #D57A28;
+}
+
+.st29 {
+  fill: #E5AD75;
+}
+
+.st30 {
+  fill: #070809;
+}
+
+
+@media screen and (max-width: 800px){
+  .opciones{
+    font-size: 0.7em;
+  }
+}
